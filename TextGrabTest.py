@@ -17,23 +17,45 @@ page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Structural Design Engine
 
 
 # Q3 robotics
-page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com.html"
+#page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com.html"
 
 
 # Astrobotic Technology Inc.
-page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com.html"
+#page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com.html"
 #print(page)
 
 
 # Ram Robotics, difficulty reading in the live fetch
-page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Robotics Engineer - Webster, NY 14580 - Indeed.com.html"
+#page = "/Users/m0j01/Projects/WebScarpez/Practice_Sites/Robotics Engineer - Webster, NY 14580 - Indeed.com.html"
 
 can = open(page, 'r')
 text = can.read()
 
 soup = BeautifulSoup(text, features="html.parser")
 
+#titleTag = soup.title.get_text()
+#titleList = titleTag.split("- ")
 
+titleList = soup.title.get_text().split("- ")
+title, location = '- '.join(titleList[:-2]), titleList[-2]
+companyName = soup.find_all("div", 'icl-u-lg-mr--sm')[0].get_text()
+
+print("title :", title)
+print("location :", location)
+print("Company name :", companyName)
+
+
+#companyName = soup.find_all("div", 'icl-u-lg-mr--sm')
+#print("Company name :", companyName[0].get_text())
+
+
+#print("Position Title :", positionTitle)
+#print("Position Location :", location)
+#print("Position Referer :", referingWebsite)
+
+'''
+
+#print(soup.prettify())
 
 # ----------- Grabs Quals
 
@@ -46,13 +68,13 @@ soup = BeautifulSoup(text, features="html.parser")
 
 # ---- Works for 3+ pages
 # Grabs most relevant text on page
-dividers = soup.find_all('div', 'jobsearch-JobComponent-description')
+#dividers = soup.find_all('div', 'jobsearch-JobComponent-description')
 #[print(text) for text in dividers[0].stripped_strings]
+#text = dividers[0].get_text(" ")
+#print(len(text))
 
-text = dividers[0].get_text(" ")
-print(len(text))
 
-'''
+
 diver = dividers[0].find_all('p')
 for dive in diver:
     print(dive)
