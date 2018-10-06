@@ -1,92 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/goToNextPage.py" line="56" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1da17590-8ab5-4e93-b6f5-9d2e49153921" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Level_3_Deep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Level_4_Deep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writeToFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grab_First_List_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level_5_Deep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goToNextPage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level_4_Deep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Level_4_Deep.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MAYN.py" beforeDir="false" afterPath="$PROJECT_DIR$/MAYN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/579216298929618" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/579216298929618" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/analytics(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/analytics(1).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/analytics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/beacon.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/beacon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/en_US.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/en_US.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/env" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/external.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/external.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/fbevents.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/fbevents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/frontendlogging" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/frontendlogging" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/indeedapply-compiled.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/indeedapply-compiled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/linkid.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/linkid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/log" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/ord=1" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/ord=1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_Y21pX2pwX3RvZy0x-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_Y21pX2pwX3RvZy0x-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_amFzeHNlcnB2amV4dHJhY3RlZHNraWxsdHN0-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_amFzeHNlcnB2amV4dHJhY3RlZHNraWxsdHN0-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_amFzeHZqMnRzdA-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_amFzeHZqMnRzdA-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_amFzeHZqc3RpY2t5YXBwbHlidG50c3Q-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_amFzeHZqc3RpY2t5YXBwbHlidG50c3Q-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_bXlpbmRqYXN4Zm9vdGVycmVzdW1lY3Rh-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctor_viewjob_bXlpbmRqYXN4Zm9vdGVycmVzdW1lY3Rh-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctorjs_viewjob_amFzeF90cmFja19tdWx0aXNlc3Npb25fbm9hcHBsaWVz.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/proctorjs_viewjob_amFzeF90cmFja19tdWx0aXNlc3Npb25fbm9hcHBsaWVz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/thirdpartytag.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/thirdpartytag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/viewjob.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/viewjob.common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/viewjob.noproctor-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/viewjob.noproctor-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/viewjob.noproctor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/viewjob.noproctor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Engineer - Miami Beach, FL - Indeed.com_files/xpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Engineer - Miami Beach, FL - Indeed.com_files/xpc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/579216298929618" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/579216298929618" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/analytics(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/analytics(1).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/analytics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/beacon.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/beacon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/en_US.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/en_US.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/env" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/external.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/external.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/fbevents.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/fbevents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/frontendlogging" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/frontendlogging" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/indeedapply-compiled.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/indeedapply-compiled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/linkid.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/linkid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/log" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/ord=1" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/ord=1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_Y21pX2pwX3RvZy0x-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_Y21pX2pwX3RvZy0x-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_amFzeHNlcnB2amV4dHJhY3RlZHNraWxsdHN0-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_amFzeHNlcnB2amV4dHJhY3RlZHNraWxsdHN0-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_amFzeHZqMnRzdA-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_amFzeHZqMnRzdA-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_amFzeHZqc3RpY2t5YXBwbHlidG50c3Q-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_amFzeHZqc3RpY2t5YXBwbHlidG50c3Q-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_bXlpbmRqYXN4Zm9vdGVycmVzdW1lY3Rh-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctor_viewjob_bXlpbmRqYXN4Zm9vdGVycmVzdW1lY3Rh-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctorjs_viewjob_amFzeF90cmFja19tdWx0aXNlc3Npb25fbm9hcHBsaWVz.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/proctorjs_viewjob_amFzeF90cmFja19tdWx0aXNlc3Npb25fbm9hcHBsaWVz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/thirdpartytag.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/thirdpartytag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/viewjob.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/viewjob.common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/viewjob.noproctor-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/viewjob.noproctor-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/viewjob.noproctor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/viewjob.noproctor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/xpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Robotics Research Engineer - Simulation Focus - Pittsburgh, PA - Indeed.com_files/xpc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/472b6cba60bdf37130bd6ed661374f8c" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/472b6cba60bdf37130bd6ed661374f8c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/579216298929618" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/579216298929618" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/analytics(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/analytics(1).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/analytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/analytics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/beacon.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/beacon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/en_US.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/en_US.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/env" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/external.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/external.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/fbevents.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/fbevents.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/frontendlogging" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/frontendlogging" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/indeedapply-compiled.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/indeedapply-compiled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/linkid.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/linkid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/log" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/ord=1" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/ord=1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_Y21pX2pwX3RvZy0x-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_Y21pX2pwX3RvZy0x-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_amFzeHNlcnB2amV4dHJhY3RlZHNraWxsdHN0-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_amFzeHNlcnB2amV4dHJhY3RlZHNraWxsdHN0-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_amFzeHZqMnRzdA-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_amFzeHZqMnRzdA-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_amFzeHZqc3RpY2t5YXBwbHlidG50c3Q-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_amFzeHZqc3RpY2t5YXBwbHlidG50c3Q-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_bXlpbmRqYXN4Zm9vdGVycmVzdW1lY3Rh-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctor_viewjob_bXlpbmRqYXN4Zm9vdGVycmVzdW1lY3Rh-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctorjs_viewjob_amFzeF90cmFja19tdWx0aXNlc3Npb25fbm9hcHBsaWVz.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/proctorjs_viewjob_amFzeF90cmFja19tdWx0aXNlc3Npb25fbm9hcHBsaWVz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/thirdpartytag.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/thirdpartytag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/viewjob.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/viewjob.common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/viewjob.noproctor-janus-ltr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/viewjob.noproctor-janus-ltr.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/viewjob.noproctor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/viewjob.noproctor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/xpc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_Sites/Structural Design Engineer (Wing or Fuselage) - Executive Aircraft - United States - Indeed.com_files/xpc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TextGrabTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextGrabTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rawExtractedData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/rawExtractedData.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,37 +24,38 @@
     <session id="1894404294">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="24" />
-          <entry key="py" value="6945" />
+          <entry key="dummy" value="42" />
+          <entry key="py" value="13805" />
           <entry key="writeToFile" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="25" />
-          <entry key="Python" value="6945" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="Python" value="13805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
-          <entry key="txt" value="10" />
+          <entry key="py" value="13" />
+          <entry key="txt" value="12" />
           <entry key="writeToFile" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="7" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -138,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MAYN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="110">
+              <caret line="158" column="64" selection-start-line="158" selection-start-column="64" selection-end-line="158" selection-end-column="64" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -148,20 +75,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Level_4_Deep.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rawExtractedData.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Level_2_Deep.py">
+        <entry file="file://$PROJECT_DIR$/Grab_First_List_Page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="839">
-              <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
+            <state relative-caret-position="570">
+              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="50" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -170,22 +87,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TextGrabTest.py">
+        <entry file="file://$PROJECT_DIR$/Level_5_Deep.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="49" />
+            <state relative-caret-position="2415">
+              <caret line="164" selection-end-line="174" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/writeToFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -225,7 +133,12 @@
       <find>RAM Photonics, LLC</find>
       <find>RAM</find>
       <find>Photonics</find>
+      <find>612</find>
+      <find>6,152</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -234,19 +147,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Sides.py" />
-        <option value="$PROJECT_DIR$/MAYN.py" />
-        <option value="$PROJECT_DIR$/TextGrabTest.py" />
         <option value="$PROJECT_DIR$/writeToFile" />
         <option value="$PROJECT_DIR$/writeToFile.py" />
         <option value="$PROJECT_DIR$/Level_3_Deep.py" />
+        <option value="$PROJECT_DIR$/Level_4_Deep.py" />
+        <option value="$PROJECT_DIR$/goToNextPage.py" />
+        <option value="$PROJECT_DIR$/TextGrabTest.py" />
+        <option value="$PROJECT_DIR$/Practice_Sites/Grab_First_List_Page.py" />
+        <option value="$PROJECT_DIR$/Grab_First_List_Page.py" />
+        <option value="$PROJECT_DIR$/Level_5_Deep.py" />
+        <option value="$PROJECT_DIR$/MAYN.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="277" />
-    <option name="y" value="41" />
-    <option name="width" value="1502" />
-    <option name="height" value="914" />
+    <option name="x" value="148" />
+    <option name="y" value="23" />
+    <option name="width" value="1284" />
+    <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -266,6 +184,12 @@
               <item name="WebScarpez" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WebScarpez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebScarpez" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -277,11 +201,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Practice_Sites" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Practice_Sites" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -296,8 +221,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Level_3_Deep">
-    <configuration name="Level_3_Deep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MAYN">
+    <configuration name="Grab_First_List_Page" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebScarpez" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,7 +234,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level_3_Deep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grab_First_List_Page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Level_4_Deep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebScarpez" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level_4_Deep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Level_5_Deep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WebScarpez" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level_5_Deep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -339,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sides (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="goToNextPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WebScarpez" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -351,49 +318,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level_2_Deep.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sides" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WebScarpez" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextGrabTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="writeToFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="WebScarpez" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/writeToFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/goToNextPage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,19 +328,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Level_4_Deep" />
+      <item itemvalue="Python.goToNextPage" />
+      <item itemvalue="Python.Level_5_Deep" />
+      <item itemvalue="Python.Grab_First_List_Page" />
       <item itemvalue="Python.MAYN" />
-      <item itemvalue="Python.Sides" />
-      <item itemvalue="Python.Sides (1)" />
-      <item itemvalue="Python.Level_3_Deep" />
-      <item itemvalue="Python.writeToFile" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Level_3_Deep" />
-        <item itemvalue="Python.writeToFile" />
-        <item itemvalue="Python.Sides" />
         <item itemvalue="Python.MAYN" />
-        <item itemvalue="Python.Sides (1)" />
+        <item itemvalue="Python.Level_5_Deep" />
+        <item itemvalue="Python.Grab_First_List_Page" />
+        <item itemvalue="Python.goToNextPage" />
+        <item itemvalue="Python.Level_4_Deep" />
       </list>
     </recent_temporary>
   </component>
@@ -433,23 +358,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="277" y="41" width="1502" height="914" extended-state="0" />
+    <frame x="148" y="23" width="1284" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10410959" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28502417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296837" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3272506" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36302295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933443" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32965687" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3294509" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,56 +386,89 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TextGrabTest.py">
+    <entry file="file://$PROJECT_DIR$/phile.txt" />
+    <entry file="file://$PROJECT_DIR$/Level_3_Deep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="299">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level_4_Deep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Level_2_Deep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
+        <state relative-caret-position="960">
           <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/writeToFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rawExtractedData.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Level_4_Deep.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Level_3_Deep.py">
+    <entry file="file://$PROJECT_DIR$/goToNextPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="192">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
-            <element signature="e#1679#1695#0" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextGrabTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writeToFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstResultsPull_09_27_18.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondResultsPull_09_27_18.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MAYN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="110">
+          <caret line="158" column="64" selection-start-line="158" selection-start-column="64" selection-end-line="158" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grab_First_List_Page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Level_5_Deep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2415">
+          <caret line="164" selection-end-line="174" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>

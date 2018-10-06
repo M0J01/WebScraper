@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import re
 
 print("Herr otto")
 
@@ -27,6 +28,26 @@ goodLinks = []
 badLinks = []
 resultsList = []
 savedResults = []
+
+
+# Grab Number of Search Results in a page
+'''
+print(numResults)
+pattern = 'Page[^.]* of (.+?) jobs'
+patternz = re.compile(pattern)
+data = re.findall(patternz, numResults)[0]
+'''
+numResults = food.find_all('div', {'id':'searchCount'})[0].get_text()
+numSearchResults = int(str(re.findall(re.compile('Page[^.]* of (.+?) jobs'), numResults)[0]).replace(',',''))
+print("Number of Search Results :", numSearchResults)
+
+#numResults = food.find_all('div', 'resultsTop')
+
+#numResults = "Page XX of {} jobs"
+#print('num results:', numResults)
+#print(food.prettify())
+
+
 
 # ------- Grab all of the links
 for link in food.find_all('a'):
