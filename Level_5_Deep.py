@@ -43,7 +43,7 @@ data = re.findall(patternz, numResults)[0]
 '''
 numResults = food.find_all('div', {'id':'searchCount'})[0].get_text()
 numSearchResults = int(str(re.findall(re.compile('Page[^.]* of (.+?) jobs'), numResults)[0]).replace(',',''))
-print("Number of Search Results :", numSearchResults)
+print("Number of Search Results :", numSearchResults, "\n")
 
 #numResults = food.find_all('div', 'resultsTop')
 
